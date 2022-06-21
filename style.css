@@ -8,3 +8,9 @@
     --palette-dark: #262626;
     --palette-light: #A5A5A5;
 }
+
+body {
+    font-family: var(--template-font);
+    color: var(--palette-white);
+    background-color: var(--palette-dark);
+}
